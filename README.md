@@ -1,5 +1,6 @@
 # Pihole---Allow-and-Block-lists
-  this is first version after month of tunning.
+this is first version after month of tunning.
+Dont hesitate create pull request or contact me gemi69@gmail.com
 
 ### exact-allowlist.md
 contains exact whitelisted domains
