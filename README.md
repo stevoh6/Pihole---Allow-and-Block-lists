@@ -2,19 +2,19 @@
 this is first version after month of tunning.
 Dont hesitate create pull request or contact me gemi69@gmail.com
 
-### exact-allowlist.md
+### exact-allowlist
 contains exact whitelisted domains
 
-### exact-blocklist.md
+### exact-blocklist
 contains exact blacklisted domains
 
-### gravity.md
+### gravity
 conatains list of usefull precompiled blacklists for pihole.  ~ 3mill unique records.
 
-### regex-allowlist.md
+### regex-allowlist
 contains regex for whitelisted domains
 
-### regex-blocklist.md
+### regex-blocklist
 contains regex blacklisted domains
 
 # Youtube ads 
