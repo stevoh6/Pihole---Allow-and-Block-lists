@@ -8,7 +8,7 @@ contains exact whitelisted domains
 ### exact-blocklist
 contains exact blacklisted domains
 
-### gravity
+### gravitylist
 conatains list of usefull precompiled blacklists for pihole.  ~ 3mill unique records.
 
 ### regex-allowlist
