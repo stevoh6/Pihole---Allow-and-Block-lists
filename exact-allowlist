@@ -1,10 +1,12 @@
 aad.cs.dds.microsoft.com
 abeagle-public.buzzfeed.com
+amp.reddit.com
 amp-reddit-com.cdn.ampproject.org
 android.clients.google.com
 api.ad.xiaomi.com
 api.fast.com
 blog-cloudflare-com.cdn.ampproject.org
+cdn.ampproject.org
 cdnjs.cloudflare.com
 clients1.google.com
 connect.facebook.net
@@ -21,6 +23,11 @@ eu-prod.asyncgw.teams.microsoft.com
 fonts.googleapis.com
 fonts.gstatic.com
 forms.office.com
+### Because of "geo" in regex blocklist, google streetview
+geo0.ggpht.com
+geo1.ggpht.com
+geo2.ggpht.com
+geo3.ggpht.com
 ### Because of "geo" in regex blocklist
 george.slsp.sk
 ### Because of "geo" in regex blocklist
